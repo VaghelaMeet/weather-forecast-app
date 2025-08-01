@@ -9,16 +9,6 @@ A beautiful, responsive React app that provides **current weather** and **5-day 
 
 ---
 
-## 📸 Preview
-
-> Responsive and animated UI with gradient background based on weather condition.
-
-| Search View                         | Weather Card                          | Forecast Buttons                        |
-| ----------------------------------- | ------------------------------------- | --------------------------------------- |
-| ![Search](./screenshots/search.png) | ![Weather](./screenshots/weather.png) | ![Forecast](./screenshots/forecast.png) |
-
----
-
 ## 🚀 Features
 
 - 🔍 City-based weather search
